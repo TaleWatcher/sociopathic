@@ -1,0 +1,16 @@
+{
+  "name": "sociopathic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TaleWatcher/sociopathic.git",
+  "author": "TaleWatcher <fynix.faizaan@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {
+    "semistandard": "^16.0.0"
+  }
+}
